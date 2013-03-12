@@ -1,0 +1,24 @@
+/*----v2.0 blue:#2185C5, light-blue:#7ECEFD, white-yellow-ish:#FFF6E5, gray:#3E454C, red:#FF7F66; */
+header{
+  height:100px;
+}
+footer{
+  background:#3E454C;
+  height:350px;
+}
+.container{
+  background:#FFF6E5;
+  min-height:300px;
+}
+.container2{
+  background:#7ECEFD;
+  min-height:300px;
+}
+.container3{
+  background:#2185C5;
+  min-height:300px;
+}
+.container4{
+  background:#FF7F66;
+  min-height:300px;
+}
