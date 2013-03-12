@@ -22,3 +22,28 @@ footer{
   background:#FF7F66;
   min-height:300px;
 }
+.nav-social{
+  display:inline-block;
+  float:right;
+  margin-top:20px;
+  margin-right:20px;
+}
+.nav-social li{
+  float:left;
+  margin:0 10px;
+}
+.nav-social a{
+  background: url('../imgs/sprite-social.png') no-repeat top left;
+  display:inline-block;
+}
+
+a.facebook:hover{ background-position: 0 0; width: 64px; height: 64px; } 
+a.facebook{ background-position: 0 -114px; width: 64px; height: 64px; } 
+a.google:hover{ background-position: 0 -228px; width: 64px; height: 64px; } 
+a.google{ background-position: 0 -342px; width: 64px; height: 64px; } 
+a.linkedin:hover{ background-position: 0 -456px; width: 64px; height: 64px; } 
+a.linkedin{ background-position: 0 -570px; width: 64px; height: 64px; } 
+a.skype:hover{ background-position: 0 -684px; width: 64px; height: 64px; } 
+a.skype{ background-position: 0 -798px; width: 64px; height: 64px; } 
+a.twitter:hover{ background-position: 0 -912px; width: 64px; height: 64px; } 
+a.twitter{ background-position: 0 -1026px; width: 64px; height: 64px; } 
