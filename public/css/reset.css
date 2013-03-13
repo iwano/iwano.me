@@ -36,7 +36,7 @@ ol, ul {list-style-position:inside;}
 body {
   background:#fff;
   color:#565656;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'lucida grande', Helvetica, Arial, sans-serif;
 }
 p, a{
   font-size:12px;
@@ -51,4 +51,25 @@ a:hover{
 }
 ul{
   list-style-type:none;
+}
+h1{
+  font-size:40px;
+  font-weight:bold;
+  margin:20px 0;
+}
+h2{
+  color:#47B4E0;
+  font-size:32px;
+  font-weight:bold;
+  margin:15px 0;
+}
+h3{
+  font-size:28px;
+  margin:25px 0;
+}
+.code{
+  font-family:'Oxygen Mono', sans-serif;       
+  font-weight: normal;
+  font-style: italic;
+  color: #666;
 }
